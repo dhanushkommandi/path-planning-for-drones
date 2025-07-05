@@ -1,0 +1,8 @@
+gym
+numpy
+torch
+matplotlib
+stable-baselines3
+typing_extensions
+shimmy>=2.0
+sklearn
